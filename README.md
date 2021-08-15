@@ -5,7 +5,6 @@
 
 
 ```C++
-
 #include <bits/stdc++.h>
 
 #define endl '\n'
@@ -20,7 +19,6 @@ int main()
     cout << "Accepted" << endl;
     return 0;
 }
-
 ```
 
 
